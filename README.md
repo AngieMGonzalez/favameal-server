@@ -1,4 +1,5 @@
 # Favameal
+- template from book 3 https://github.com/nashville-software-school/favameal-django-template 
 
 You are inheriting a partially implemented API application using Django and the Django REST Framework plugin. It's a community driven site where anyone can add a restaurant to the system, and adds meals to restaurants.
 
